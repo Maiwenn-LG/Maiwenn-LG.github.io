@@ -6,11 +6,11 @@
 /* Centrage réel du contenu large */
 .page__content,
 .page__inner-wrap {
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
 /* Largeur idéale pour dashboards */
 .page__content {
-  max-width: 1400px;
+  max-width: 1400px !important;
 }
