@@ -1,5 +1,6 @@
 remote_theme: mmistakes/minimal-mistakes
 title: Portfolio de Maïwenn LE GALL
+show_recent_posts: false
 description: Voici un aperçu des principaux projets que j'ai réalisés
 
 plugins:
