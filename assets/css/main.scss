@@ -3,13 +3,13 @@
 
 @import "minimal-mistakes";
 
-/* Centrer uniquement la page dashboards */
+/* Contenu large et centré */
 .page__content {
-  max-width: 1400px !important;
-  margin-left: auto !important;
+  max-width: 1400px !important;  /* étend la largeur */
+  margin-left: auto !important;  /* centre le bloc */
   margin-right: auto !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
+  padding-left: 20px !important; /* petit padding pour lisibilité */
+  padding-right: 20px !important;
 }
 
 /* Centrer l’iframe Tableau */
