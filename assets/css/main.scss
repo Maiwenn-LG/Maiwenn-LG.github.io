@@ -32,3 +32,12 @@
   width: 100% !important;
   height: 900px !important;
 }
+
+/* ===== Supprimer l'espace sidebar fantôme ===== */
+#main {
+  margin-left: 0 !important;
+}
+
+.initial-content {
+  padding-left: 0 !important;
+}
