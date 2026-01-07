@@ -6,8 +6,6 @@ permalink: /dashboards/
 page_id: dashboards
 ---
 
-# Dashboards Tableau
-
 ## WNBA 2025 – Pays de naissance 🏀
 
 <div class='tableauPlaceholder' id='viz1767791600948' style='position: relative'>
