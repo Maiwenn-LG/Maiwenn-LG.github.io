@@ -1,0 +1,7 @@
+main:
+  - title: "Accueil"
+    url: /
+  - title: "Tableau"
+    url: /tableau/
+  - title: "R"
+    url: /r/
