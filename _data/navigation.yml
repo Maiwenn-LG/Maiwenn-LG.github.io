@@ -2,6 +2,6 @@ main:
   - title: "Accueil"
     url: /
   - title: "Tableau"
-    url: /tableau/
+    url: /dashboards/
   - title: "R"
     url: /r/
