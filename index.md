@@ -1,6 +1,7 @@
 ---
 title: Bonjour et bienvenue sur mon portfolio ! 👋
 layout: home
+classes: wide
 ---
 
 Je m'appelle **Maïwenn Le Gall** et je suis passionnée par **l'analyse de données appliquée au sport**.  
