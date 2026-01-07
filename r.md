@@ -1,9 +1,10 @@
 ---
-title: Projets R
+title: Projets R Studio
 layout: single
 permalink: /r/
 ---
 
-# Projets R Studio
+Projets réalisés sur R Studio.
 
-Projets réalisés sur R.
+## Projet de statistiques
+Objectif : Prédire la victoire d'un match de tennis à partir des paramètre suivants : ...
