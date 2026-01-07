@@ -3,16 +3,20 @@
 
 @import "minimal-mistakes";
 
-/* Centrage réel du contenu large */
-.page__content,
-.page__inner-wrap {
-  margin-left: auto !important;
-  margin-right: auto !important;
-  max-width: 1400px !important;
-
-}
-
-/* Largeur idéale pour dashboards */
+/* Centrer uniquement la page dashboards */
 .page__content {
   max-width: 1400px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Centrer l’iframe Tableau */
+.tableauPlaceholder iframe,
+.tableauViz {
+  display: block;
+  margin: 0 auto !important;
+  width: 100% !important;
+  height: 900px !important;
 }
