@@ -1,14 +1,8 @@
 ---
-layout: default
-title: Dashboards Tableau
+title: Projets Tableau
+layout: single
+permalink: /dashboards/
 ---
-
-<style>
-/* Forcer une largeur maximale plus grande */
-.main-content {
-  max-width: 1200px !important;
-}
-</style>
 
 # Dashboards Tableau
 
