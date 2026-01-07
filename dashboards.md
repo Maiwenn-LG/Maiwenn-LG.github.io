@@ -1,6 +1,7 @@
 ---
 title: Projets Tableau
 layout: single
+classes: wide
 permalink: /dashboards/
 ---
 
