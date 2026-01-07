@@ -4,15 +4,3 @@ description: Voici un aperçu des principaux projets que j'ai réalisés
 
 plugins:
   - jekyll-include-cache
-
-navigation:
-  - title: Accueil
-    url: /
-  - title: Tableau
-    url: /dashboards/
-  - title: R
-    url: /r/
-  - title: R Shiny
-    url: /r-shiny/
-  - title: Python
-    url: /python/
