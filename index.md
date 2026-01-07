@@ -1,6 +1,6 @@
 ---
 title: Bonjour et bienvenue sur mon portfolio ! 👋
-layout: home
+layout: single
 classes: wide
 ---
 
