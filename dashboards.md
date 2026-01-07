@@ -3,6 +3,7 @@ title: Projets Tableau
 layout: single
 classes: wide
 permalink: /dashboards/
+page_id: dashboards
 ---
 
 # Dashboards Tableau
