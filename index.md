@@ -1,7 +1,13 @@
+---
+layout: default
+title: Mes projets Tableau
+---
+
 # Mes projets Tableau
 
 Voici mon dashboard Tableau sur la saison WNBA 2025 :
 
+<!-- Code Tableau ici -->
 <div class='tableauPlaceholder' id='viz1767791600948' style='position: relative'>
   <noscript>
     <a href='#'>
