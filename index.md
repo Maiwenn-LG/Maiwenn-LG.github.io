@@ -17,3 +17,9 @@ Chaque projet illustre mes compétences en traitement, visualisation et interpr�
 Mon objectif est de mettre ces compétences au service du sport, dans des poste tels que **Data analyst sportif** ou **Sport Scientist**.
 
 N'hésitez pas à naviguer dans les différentes sections du site pour découvrir mes travaux et visualisations !  
+
+---
+
+📫 **Contact :**  
+[LinkedIn](https://www.linkedin.com/in/mlg-digital-sport/)  
+✉️ [maiwenn.lg@sfr.fr](mailto:maiwenn.lg@sfr.fr)
