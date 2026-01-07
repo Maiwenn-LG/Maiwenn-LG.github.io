@@ -3,28 +3,32 @@
 
 @import "minimal-mistakes";
 
-/* ==== Styles spécifiques à la page Tableau ==== */
-.page-dashboards .page__content {
-  max-width: 1400px !important;      /* largeur maximale */
-  margin-left: auto !important;      /* centre le bloc */
+/* ===== Page Tableau : alignement global ===== */
+.page__inner-wrap {
+  max-width: 1400px !important;   /* même largeur pour le titre ET le contenu */
+  margin-left: auto !important;
   margin-right: auto !important;
-  padding-left: 20px !important;     /* petit padding pour lisibilité */
+  padding-left: 20px !important;
   padding-right: 20px !important;
 }
 
-/* Centrer tous les éléments Markdown (titres, paragraphes...) */
-.page-dashboards .page__content > * {
-  margin-left: auto !important;
-  margin-right: auto !important;
-  text-align: left; /* ou center si tu préfères */
+/* Supprimer les décalages internes du header */
+.page__inner-wrap > header {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 
-/* Centrer et élargir le dashboard Tableau */
-.page-dashboards .page__content .tableauPlaceholder,
-.page-dashboards .page__content iframe {
+/* Supprimer les décalages internes du contenu */
+.page__content {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Tableau : centré et large */
+.tableauPlaceholder,
+.tableauPlaceholder iframe {
   display: block !important;
   margin: 0 auto !important;
   width: 100% !important;
-  max-width: 1400px !important;
-  height: 900px !important;  /* ajuste selon tes dashboards */
+  height: 900px !important;
 }
