@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 title: Portfolio de Maïwenn LE GALL
 description: Voici un aperçu des principaux projets que j'ai réalisés
+
+plugins:
+  - jekyll-include-cache
