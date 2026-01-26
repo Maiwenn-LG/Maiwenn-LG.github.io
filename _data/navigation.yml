@@ -5,3 +5,5 @@ main:
     url: /dashboards/
   - title: "R"
     url: /r/
+  - title: "Python"
+    url: /python/
