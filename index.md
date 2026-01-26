@@ -11,10 +11,10 @@ Sur ce site, je présente mes projets réalisés avec différents outils et lang
 
 - **Tableau** – dashboards interactifs pour explorer et raconter des données
 - **R et R Shiny** – analyses statistiques, apprentissage statistique et dashboards interactifs
-- **Python** – apprentissage profond
+- **Python** – apprentissage profond, visualisation de données
 
 Chaque projet illustre mes compétences en traitement, visualisation et interprétation des données.  
-Mon objectif est de mettre ces compétences au service du sport, dans des poste tels que **Data analyst sportif** ou **Sport Scientist**.
+Mon objectif est de mettre ces compétences au service du sport, dans des poste tels que **Data analyst sportif**, **Data scientist** ou **Sport Scientist**.
 
 N'hésitez pas à naviguer dans les différentes sections du site pour découvrir mes travaux et visualisations !  
 
