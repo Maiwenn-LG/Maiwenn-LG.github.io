@@ -42,22 +42,22 @@
   padding-left: 0 !important;
 }
 
-// Drapeaux dans la navbar
-.lang-switch a {
-  font-family:
-    "Apple Color Emoji",
-    "Segoe UI Emoji",
-    "Noto Color Emoji",
-    sans-serif;
-  font-size: 1.1em;
-  opacity: 0.85;
+// Changement de langue
+/* Différencier visuellement */
+.greedy-nav .lang-switch > a {
+  font-size: 0.85em;
+  font-weight: 500;
+  opacity: 0.65;
 }
 
-.lang-switch:hover a {
+/* Hover */
+.greedy-nav .lang-switch > a:hover {
   opacity: 1;
+  text-decoration: underline;
 }
 
-/* Push language switch to the right */
+/* Séparer du menu principal */
 .greedy-nav .lang-switch:first-of-type {
   margin-left: auto;
+  padding-left: 1rem;
 }
