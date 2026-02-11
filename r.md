@@ -1,15 +1,15 @@
 ---
-title: Projets R Studio
+title: R Studio Projects
 layout: single
 permalink: /r/
 ---
 
-Projets réalisés sur R Studio.
+Here you will find the projects I have completed on RStudio.
 
-## Projet d'apprentissage statistique 🎾
+## Machine learning project 🎾
 
-**Outils** : R, Quarto, tidymodels 
+**Tools** : R, Quarto, tidymodels 
 
-**Objectif** :  prédire la victoire ou non d'un joueur de tennis à partir d'informations sur le tournoi, le match, le joueur et son adversaire.
+**Objective**:  to predict whether a tennis player will win or lose based on information about the tournament, the match, the player and their opponent.
 
-👉 [Voir le projet complet](../r/Projet_tennis.html)
+👉 [See the full project](../r/Projet_tennis.html)
