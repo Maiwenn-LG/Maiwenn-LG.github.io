@@ -13,3 +13,7 @@
 .lang-switch:hover .flag {
   transform: scale(1.05);
 }
+
+.greedy-nav .lang-switch:first-of-type {
+  margin-left: auto;
+}
