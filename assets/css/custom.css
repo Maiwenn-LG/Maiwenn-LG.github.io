@@ -1,0 +1,14 @@
+/* Language switch styling */
+.lang-switch {
+  margin-left: 20px;
+  font-weight: 600;
+  opacity: 0.7;
+}
+
+.lang-switch a {
+  font-size: 0.9em;
+}
+
+.lang-switch:hover {
+  opacity: 1;
+}
