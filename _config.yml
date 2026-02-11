@@ -5,3 +5,6 @@ description: Voici un aperçu des principaux projets que j'ai réalisés
 
 plugins:
   - jekyll-include-cache
+
+custom_css:
+  - assets/css/custom.css
