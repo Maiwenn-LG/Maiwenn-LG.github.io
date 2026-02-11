@@ -40,39 +40,3 @@
 
 .initial-content {
   padding-left: 0 !important;
-}
-
-// Changement de langue
-/* ===============================
-   Language switch – TEST STYLING
-   =============================== */
-
-/* Style distinct (cible le <a>) */
-.greedy-nav a.lang-switch {
-  font-size: 0.8rem !important;
-  font-weight: 400 !important;
-  text-transform: none !important;
-  letter-spacing: normal !important;
-  color: #d32f2f !important; /* ROUGE TEST */
-  opacity: 1 !important;
-  text-decoration: none !important;
-}
-
-/* Hover */
-.greedy-nav a.lang-switch:hover {
-  text-decoration: underline !important;
-}
-
-/* Push à droite : on agit sur le LI parent */
-.greedy-nav a.lang-switch:first-of-type {
-  margin-left: auto !important;
-  padding-left: 1.5rem;
-  border-left: 1px solid rgba(0, 0, 0, 0.3);
-}
-
-/* Ajouter le "/" entre English et Français */
-.greedy-nav a.lang-switch + a.lang-switch::before {
-  content: "/";
-  margin: 0 0.4rem;
-  color: #d32f2f;
-}
