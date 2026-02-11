@@ -5,5 +5,3 @@ show_recent_posts: false
 plugins:
   - jekyll-include-cache
 
-custom_css:
-  - assets/css/custom.css
