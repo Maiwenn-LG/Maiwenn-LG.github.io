@@ -1,15 +1,15 @@
 ---
-title: Projets Python
+title: Python projects
 layout: single
 permalink: /python/
 ---
 
-Projets réalisés avec Python.
+Here you will find the projects I completed with Python
 
-## Projet d'apprentissage profond ⚽⚾🏏
+## Deep learning project ⚾🏏⚽
 
-**Outils** : Python, Keras, Pytorch, TensorFlow
+**Tools** : Python, Keras, Pytorch, TensorFlow
 
-**Objectif** : Classifier des images dans les catégories suivantes : "baseball", "cricket" et "football"
+**Objective** : Classify images into the following categories: “baseball,” “cricket,” and “football.”
 
-👉 [Voir le projet complet](../Python/apprentissage.html)
+👉 [See the full project](../Python/apprentissage.html)
