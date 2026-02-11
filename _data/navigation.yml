@@ -7,9 +7,9 @@ main:
     url: /r/
   - title: "Python"
     url: /python/
-  - title: "🇬🇧 EN"
+  - title: "<img src='/assets/gb.svg' class='flag'>"
     url: /
     class: lang-switch
-  - title: "🇫🇷 FR"
+  - title: "<img src='/assets/fr.svg' class='flag'>"
     url: /fr/
     class: lang-switch
