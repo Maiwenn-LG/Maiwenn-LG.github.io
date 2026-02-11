@@ -43,29 +43,37 @@
 }
 
 // Changement de langue
-/* Casser le style du menu principal */
+/* ===============================
+   Language switch – TEST STYLING
+   =============================== */
+
+/* Style distinct */
 .greedy-nav ul li.lang-switch > a {
   font-size: 0.8rem !important;
   font-weight: 400 !important;
   text-transform: none !important;
   letter-spacing: normal !important;
-  opacity: 0.6;
+  color: #d32f2f !important;   /* ROUGE pour test */
+  opacity: 1 !important;
 }
 
-/* Hover clair */
+/* Hover */
 .greedy-nav ul li.lang-switch > a:hover {
-  opacity: 1;
   text-decoration: underline;
 }
 
-/* Séparation nette + push à droite */
+/* Push à droite + séparation du menu */
 .greedy-nav ul li.lang-switch:first-of-type {
   margin-left: auto !important;
   padding-left: 1.5rem;
-  border-left: 1px solid rgba(0,0,0,0.2);
+  border-left: 1px solid rgba(0,0,0,0.3);
 }
 
-/* Espacement entre English et Français */
-.greedy-nav ul li.lang-switch + li.lang-switch {
-  margin-left: 0.75rem;
+/* Ajouter le "/" entre English et Français */
+.greedy-nav ul li.lang-switch + li.lang-switch::before {
+  content: "/";
+  margin-right: 0.4rem;
+  margin-left: 0.4rem;
+  color: #d32f2f;
 }
+
