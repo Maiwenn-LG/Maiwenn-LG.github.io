@@ -43,21 +43,29 @@
 }
 
 // Changement de langue
-/* Différencier visuellement */
-.greedy-nav .lang-switch > a {
-  font-size: 0.85em;
-  font-weight: 500;
-  opacity: 0.65;
+/* Casser le style du menu principal */
+.greedy-nav ul li.lang-switch > a {
+  font-size: 0.8rem !important;
+  font-weight: 400 !important;
+  text-transform: none !important;
+  letter-spacing: normal !important;
+  opacity: 0.6;
 }
 
-/* Hover */
-.greedy-nav .lang-switch > a:hover {
+/* Hover clair */
+.greedy-nav ul li.lang-switch > a:hover {
   opacity: 1;
   text-decoration: underline;
 }
 
-/* Séparer du menu principal */
-.greedy-nav .lang-switch:first-of-type {
-  margin-left: auto;
-  padding-left: 1rem;
+/* Séparation nette + push à droite */
+.greedy-nav ul li.lang-switch:first-of-type {
+  margin-left: auto !important;
+  padding-left: 1.5rem;
+  border-left: 1px solid rgba(0,0,0,0.2);
+}
+
+/* Espacement entre English et Français */
+.greedy-nav ul li.lang-switch + li.lang-switch {
+  margin-left: 0.75rem;
 }
