@@ -7,10 +7,10 @@ main:
     url: /r/
   - title: "Python"
     url: /python/
-    
-  - title: "🇬🇧"
+
+  - title: "English"
     url: /
     class: lang-switch
-  - title: "🇫🇷"
+  - title: "Français"
     url: /fr/
     class: lang-switch
