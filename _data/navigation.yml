@@ -1,5 +1,5 @@
 main:
-  - title: "Accueil"
+  - title: "Home"
     url: /
   - title: "Tableau"
     url: /dashboards/
