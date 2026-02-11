@@ -9,5 +9,7 @@ main:
     url: /python/
   - title: "🇬🇧 EN"
     url: /
+    class: lang-switch
   - title: "🇫🇷 FR"
     url: /fr/
+    class: lang-switch
