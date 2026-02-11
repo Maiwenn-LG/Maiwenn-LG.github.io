@@ -41,3 +41,23 @@
 .initial-content {
   padding-left: 0 !important;
 }
+
+// Drapeaux dans la navbar
+.lang-switch a {
+  font-family:
+    "Apple Color Emoji",
+    "Segoe UI Emoji",
+    "Noto Color Emoji",
+    sans-serif;
+  font-size: 1.1em;
+  opacity: 0.85;
+}
+
+.lang-switch:hover a {
+  opacity: 1;
+}
+
+/* Push language switch to the right */
+.greedy-nav .lang-switch:first-of-type {
+  margin-left: auto;
+}
