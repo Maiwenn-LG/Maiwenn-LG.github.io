@@ -3,6 +3,7 @@ title: Bonjour et bienvenue sur mon portfolio ! 👋
 layout: single
 classes: wide
 ---
+[🇬🇧 English](/) | 🇫🇷 Français
 
 Je m'appelle **Maïwenn Le Gall** et je suis passionnée par **l'analyse de données appliquée au sport**.  
 Je suis récemment diplômée du **Master Sciences du Numérique et Sport** de l’Université Rennes 2 et également **ingénieure en cognitique** (ENSC, promotion 2024).
