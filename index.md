@@ -4,8 +4,6 @@ layout: single
 classes: wide
 ---
 
-🇬🇧 English | [🇫🇷 Français](/fr/)
-
 My name is **Maïwenn Le Gall**, and I am passionate about **data analysis applied to sport**.  
 I recently graduated from the **Master’s degree in Digital Sciences and Sport** at the University of Rennes 2 and I am also a **Cognitive Engineering graduate** (ENSC, class of 2024).
 
