@@ -1,22 +1,24 @@
 ---
-title: Bonjour et bienvenue sur mon portfolio ! 👋
+title: Hello and welcome to my portfolio! 👋
 layout: single
 classes: wide
 ---
 
-Je m'appelle **Maïwenn Le Gall** et je suis passionnée par **l'analyse de données appliquée au sport**.  
-Je suis récemment diplômée du **Master Sciences du Numérique et Sport** de l’Université Rennes 2 et également **ingénieure en cognitique** (ENSC, promotion 2024).
+🇬🇧 English | [🇫🇷 Français](/fr/)
 
-Sur ce site, je présente mes projets réalisés avec différents outils et langages, notamment :
+My name is **Maïwenn Le Gall**, and I am passionate about **data analysis applied to sport**.  
+I recently graduated from the **Master’s degree in Digital Sciences and Sport** at the University of Rennes 2 and I am also a **Cognitive Engineering graduate** (ENSC, class of 2024).
 
-- **Tableau** – dashboards interactifs pour explorer et raconter des données
-- **R et R Shiny** – analyses statistiques, apprentissage statistique et dashboards interactifs
-- **Python** – apprentissage profond, visualisation de données
+On this website, I present projects developed using various tools and programming languages, including:
 
-Chaque projet illustre mes compétences en traitement, visualisation et interprétation des données.  
-Mon objectif est de mettre ces compétences au service du sport, dans des poste tels que **Data analyst sportif**, **Data scientist** ou **Sport Scientist**.
+- **Tableau** – interactive dashboards for data exploration and storytelling  
+- **R & R Shiny** – statistical analysis, statistical learning, and interactive dashboards  
+- **Python** – deep learning and data visualization  
 
-N'hésitez pas à naviguer dans les différentes sections du site pour découvrir mes travaux et visualisations !  
+Each project highlights my skills in data processing, visualization, and interpretation.  
+My goal is to apply these skills to the sports industry in roles such as **Sports Data Analyst**, **Data Scientist**, or **Sport Scientist**.
+
+Feel free to explore the different sections of the website to discover my work and visualizations!
 
 ---
 
