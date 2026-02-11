@@ -1,19 +1,19 @@
-.flag {
-  width: 22px;
-  height: auto;
-  border-radius: 2px;
-  vertical-align: middle;
-  box-shadow: 0 0 0.5px rgba(0,0,0,0.4);
+/* Force emoji-compatible font for language switch */
+.lang-switch a {
+  font-family:
+    "Apple Color Emoji",
+    "Segoe UI Emoji",
+    "Noto Color Emoji",
+    sans-serif;
+  font-size: 1.1em;
 }
-
-.lang-switch {
-  margin-left: 14px;
-}
-
-.lang-switch:hover .flag {
-  transform: scale(1.05);
-}
-
 .greedy-nav .lang-switch:first-of-type {
   margin-left: auto;
+}
+.lang-switch {
+  opacity: 0.85;
+}
+
+.lang-switch:hover {
+  opacity: 1;
 }
