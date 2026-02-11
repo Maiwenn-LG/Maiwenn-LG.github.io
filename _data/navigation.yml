@@ -8,9 +8,9 @@ main:
   - title: "Python"
     url: /python/
 
-  - title: "English"
-    url: /
-    class: lang-switch
-  - title: "Français"
-    url: /fr/
-    class: lang-switch
+#  - title: "English"
+#    url: /
+#    class: lang-switch
+#  - title: "Français"
+#    url: /fr/
+#    class: lang-switch
