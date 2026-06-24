@@ -12,7 +12,7 @@ Here you will find the projects I have completed on Power BI.
 
 **Objective**:  ...
 
-![Player Performance Dashboard](../assets/images/player-performance-dashboard.png)
+![Player Performance Dashboard](../assets/images/player-performance-dashboard.jpg)
 
 ## Overview
 
