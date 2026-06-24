@@ -10,6 +10,7 @@ Here you will find the projects I have completed on Power BI.
 ## Player Performance Dashboard 🏀
 
 **Tools** : Power BI, DAX, Excel 
+
 **Objective:** Develop a player performance evaluation dashboard for a basketball youth academy using a custom performance rating model.
 
 ![Player Performance Dashboard](../assets/images/player-performance-dashboard.jpg)
