@@ -2,6 +2,7 @@
 title: Power BI Projects
 layout: single
 permalink: /powerBI/
+classes: wide
 ---
 
 Here you will find the projects I have completed on Power BI.
